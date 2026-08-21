@@ -1,7 +1,7 @@
-import { OptimizerLbfgs } from './js/optimizer-lbfgs.js';
-import { OptimizerAdam } from './js/optimizer-adam.js';
-import { OptimizerQQN } from './js/optimizer-qqn.js';
-import { KnotXR } from './js/webxr.js';
+import { OptimizerLbfgs } from './optimizer-lbfgs.js';
+import { OptimizerAdam } from './optimizer-adam.js';
+import { OptimizerQQN } from './optimizer-qqn.js';
+import { KnotXR } from './webxr.js';
 
 /**
  * Knot Topology Lab
