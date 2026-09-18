@@ -1,12 +1,20 @@
 {
-  "id": "spacelike-knots",
-  "title": "Spacelike Knots",
-  "category": "lab",
-  "href": "index.html",
-  "readme": "README.md",
-  "video": "/videos/Spacelike_Knots.mp4",
-  "order": 4,
-  "section": "featured",
-  "icon": "SK",
-  "pitch": "A knot equipped with a Minkowski metric, turning crossings into causal inversions. The distance matrix becomes a causal diagram: timelike, spacelike, and null separations color-coded across the whole knot."
+    "id": "spacelike-knots",
+    "title": "Spacelike Knots",
+    "description": "A knot equipped with a Minkowski metric, turning crossings into causal inversions. The distance matrix becomes a causal diagram: timelike, spacelike, and null separations color-coded across the whole knot.",
+    "tags": [
+        "knot-theory",
+        "topology",
+        "relativity",
+        "minkowski",
+        "causal-structure",
+        "distance-matrix",
+        "visualization",
+        "webgl"
+    ],
+    "category": "labs",
+    "href": "index.html",
+    "readme": "README.md",
+    "video": "/videos/Spacelike_Knots.mp4",
+    "order": 4
 }
